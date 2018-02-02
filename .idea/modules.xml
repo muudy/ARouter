@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\logintomain\ARouterDemo-master\ARouterDemo.iml" filepath="E:\logintomain\ARouterDemo-master\ARouterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARouterDemo-master.iml" filepath="$PROJECT_DIR$/ARouterDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\logintomain\ARouterDemo-master\app\app.iml" filepath="E:\logintomain\ARouterDemo-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basecommonlibrary/basecommonlibrary.iml" filepath="$PROJECT_DIR$/basecommonlibrary/basecommonlibrary.iml" />
+      <module fileurl="file://E:\logintomain\ARouterDemo-master\basecommonlibrary\basecommonlibrary.iml" filepath="E:\logintomain\ARouterDemo-master\basecommonlibrary\basecommonlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryone/libraryone.iml" filepath="$PROJECT_DIR$/libraryone/libraryone.iml" />
+      <module fileurl="file://E:\logintomain\ARouterDemo-master\libraryone\libraryone.iml" filepath="E:\logintomain\ARouterDemo-master\libraryone\libraryone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarytwo/librarytwo.iml" filepath="$PROJECT_DIR$/librarytwo/librarytwo.iml" />
+      <module fileurl="file://E:\logintomain\ARouterDemo-master\librarytwo\librarytwo.iml" filepath="E:\logintomain\ARouterDemo-master\librarytwo\librarytwo.iml" />
+    </modules>
+  </component>
+</project>
